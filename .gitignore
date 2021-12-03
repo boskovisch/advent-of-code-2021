@@ -19,3 +19,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/advent-of-code-2021.iml
